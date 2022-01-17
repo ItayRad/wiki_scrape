@@ -1,4 +1,4 @@
-BeautifulSoup Self Project
+BeautifulSoup Project
 
 Extracts information from WIKIPEDIA all animals page by specific conditions
 Stores the information in a dictionary data collection
